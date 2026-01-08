@@ -1,4 +1,0 @@
-prisma/
-├── schema.prisma
-└── migrations/
-    └── .gitkeep
